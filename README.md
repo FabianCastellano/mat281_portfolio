@@ -14,7 +14,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aLoNsolml/mat281_portfolio_template/master?urlpath=lab)
 
-* __Fabián Castellano Núñez__ : [](https://www.linkedin.com/in/fabi%C3%A1n-castellano-n%C3%BA%C3%B1ez-3968a9149)
+* __Fabián Castellano Núñez__ : [LinkedIn](https://www.linkedin.com/in/fabi%C3%A1n-castellano-n%C3%BA%C3%B1ez-3968a9149)
 
 * __Repositorio Curso__: [GitHub](https://github.com/aLoNsolml/mat281_2019S2)
 
